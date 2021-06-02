@@ -13,3 +13,4 @@ Here is a growing colleciton of resources and helpful commands to know when work
 - [git commit](./Commands/Commit.md)
 - [git remote](./Commands/Remote.md)
 - [git push](./Commands/Push.md)
+- [git pull](./Commands/Pull.md)
