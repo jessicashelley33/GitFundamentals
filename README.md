@@ -15,3 +15,4 @@ Here is a growing colleciton of resources and helpful commands to know when work
 - [git push](./Commands/Push.md)
 - [git pull](./Commands/Pull.md)
 - [git status](./Commands/Status.md)
+- [git clone](./Commands/Clone.md)
