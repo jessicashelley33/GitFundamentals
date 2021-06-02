@@ -2,7 +2,7 @@
 
 When changes have been made inside a git repository that you want to keep, you'll need to use the `git a dd` command.
 
-Items that have not been "tracke" before will start to be tracked and all other changes will be marked as modified.
+Items that have not been "tracked" before will start to be tracked and all other changes will be marked as modified.
 
 Generally, you can get away with the command `git add .` which will add ALL files and directories that were added, changed, or deleted.
 
